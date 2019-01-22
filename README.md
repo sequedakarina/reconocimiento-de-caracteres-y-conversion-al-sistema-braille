@@ -1,3 +1,5 @@
+<html>
+<body>
 # RECONOCIMIENTO DE CARACTERES Y CONVERSIÓN AL SISTEMA BRAILLE
 <b>INTEGRANTES:</b><br>     VERÓNICA LUCENA (2152903)  
                             KARINA SEQUEDA (2152476)                            
@@ -10,3 +12,5 @@
  <b>METODOLOGÍA Y DESCRIPCIÓN DE DATOS CAPTURADOS:</b> en el proyecto se emplea una base de datos llamada EMNIST que contiene un conjunto de etiquetas e imágenes de tamaño 28x28 pixeles, representando dígitos y letras. En este caso se dará uso a la agrupación de letras con sus respectivas etiquetas e imágenes, empleando 62400 imágenes para el entrenamiento, 20800 imágenes para la prueba, dando un total de 83200 imágenes con sus respectivas etiquetas.
 
 Para profundizar un poco en la base de datos, consultar el siguiente pdf: https://arxiv.org/pdf/1702.05373.pdf
+</body>
+</html>
