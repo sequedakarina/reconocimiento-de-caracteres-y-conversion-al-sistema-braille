@@ -1,5 +1,5 @@
 # RECONOCIMIENTO DE CARACTERES Y CONVERSIÓN AL SISTEMA BRAILLE
-<b>INTEGRANTES:</b>         VERÓNICA LUCENA (2152903)  
+<b>INTEGRANTES:</b><br>     VERÓNICA LUCENA (2152903)  
                             KARINA SEQUEDA (2152476)                            
                             BRAYAN ÁLVAREZ (1251257)
 
