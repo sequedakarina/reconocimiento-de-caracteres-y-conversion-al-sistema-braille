@@ -1,7 +1,7 @@
 # RECONOCIMIENTO DE CARACTERES Y CONVERSIÓN AL SISTEMA BRAILLE
 <b>INTEGRANTES:</b><br>     VERÓNICA LUCENA (2152903)  
                             KARINA SEQUEDA (2152476)                            
-                            BRAYAN ÁLVAREZ (1251257)
+                            BRAYAN ÁLVAREZ (2151257)
 
  <b>DESCRIPCIÓN GENERAL:</b> el proyecto busca brindar apoyo a las personas con discapacidad visual que desean realizar alguna lectura de                              una obra literaria escrita a mano o a máquina, a través de un programa que reconoce caracteres y los                                      convierte al sistema braille, basándose en machine-learning y deep-learning.
 
