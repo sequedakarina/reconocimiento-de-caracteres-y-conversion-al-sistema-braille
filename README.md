@@ -1,11 +1,13 @@
 
-# RECONOCIMIENTO DE CARACTERES Y CONVERSIÓN AL SISTEMA BRAILLE
+# RECONOCIMIENTO DE CARACTERES Y REPRODUCCION DE VOZ
 
 <b>INTEGRANTES:</b><br>     VERÓNICA LUCENA (2152903)  
                             KARINA SEQUEDA (2152476)  
                             BRAYAN ÁLVAREZ (2151257)
 
- <b>DESCRIPCIÓN GENERAL:</b> El proyecto busca brindar apoyo a las personas con discapacidad visual que desean realizar alguna lectura de                              una obra literaria escrita a mano o a máquina, a través de un programa que reconoce caracteres y los                                      convierte al sistema braille, basándose en machine-learning y deep-learning.
+ <b>DESCRIPCIÓN GENERAL:</b> El proyecto busca implementar los conocimientos adquiridos en la asignatura, respecto a
+machine-learning, para lograr un reconocimiento de caracteres, mediante el ingreso de una
+imagen(Fotografía) con texto, haciendo lectura de este a través de un reproductor de voz.
 
  <b>DIRECCIÓN DEL DATASET:</b> https://www.westernsydney.edu.au/bens/home/reproducible_research/emnist
 
