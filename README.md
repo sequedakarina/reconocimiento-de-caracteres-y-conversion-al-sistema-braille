@@ -4,6 +4,7 @@
 <b>INTEGRANTES:</b><br>     VERÓNICA LUCENA (2152903)  
                             KARINA SEQUEDA (2152476)  
                             BRAYAN ÁLVAREZ (2151257)
+                            ÁNGEL GÓMEZ    (2130535)
 
  <b>DESCRIPCIÓN GENERAL:</b> El proyecto busca implementar los conocimientos adquiridos en la asignatura, respecto a
 machine-learning, para lograr un reconocimiento de caracteres, mediante el ingreso de una
